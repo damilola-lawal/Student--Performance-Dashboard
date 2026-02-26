@@ -2,7 +2,7 @@
 📊 Project Overview
 This project analyzes student performance across different courses, attendance levels, and gender categories. The goal is to understand key drivers of academic performance and identify actionable insights.
 
-# Tool
+# Tools
 Excel
 Data Cleaning
 Data Visualization
@@ -10,9 +10,9 @@ Basic Statistical Comparison
 
 # 📈 Dashboard Components
 1. Average Score per Course
-Data Analysis: 67.93
+# Data Analysis: 67.93
 
-Web Development: 67.79
+# Web Development: 67.79
 Performance across both courses is nearly Similar.
 
 2. Attendance vs Total Score
