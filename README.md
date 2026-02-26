@@ -39,4 +39,4 @@ Performance distribution is fairly balanced.
 - Investigate additional factors influencing academic performance.
 
 # Dashboard Preview
-![Dashboard] (dashboard.png) 
+![Dashboard Preview] (https://github.com/damilola-lawal/Student--Performance-Dashboard/blob/main/dashboard.png) 
