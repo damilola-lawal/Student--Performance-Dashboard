@@ -1,2 +1,48 @@
-# Student-Performance-Dashboard
-Interactive dashboard analyzing student performance, attendance impact, and gender distribution.
+# 🎓 Student Performance Dashboard
+📊 Project Overview
+This project analyzes student performance across different courses, attendance levels, and gender categories. The goal is to understand key drivers of academic performance and identify actionable insights.
+
+# Tool
+Excel
+Data Cleaning
+Data Visualization
+Basic Statistical Comparison
+
+# 📈 Dashboard Components
+1. Average Score per Course
+Data Analysis: 67.93
+
+Web Development: 67.79
+Performance across both courses is nearly Similar.
+
+2. Attendance vs Total Score
+
+Students with:
+High attendance: 67.92
+Low attendance: 67.81
+
+This suggests that attendance alone does not strongly influence performance.
+
+3. Total Performance by Gender
+
+# Female: 1021
+# Male: 979
+Performance distribution is fairly balanced.
+
+# 🔍 Key Insights
+
+Student performance is consistent across attendance levels.
+
+Course performance differences are minimal.
+
+Gender-based performance gap is small.
+
+# 💡 Recommendations
+
+Focus on learning strategies rather than attendance alone.
+
+Provide support for below-average students regardless of attendance.
+
+Investigate additional factors influencing academic performance.
+
+📷 Dashboard Preview
