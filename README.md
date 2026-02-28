@@ -1,4 +1,4 @@
-# Student Performance Dashboard
+# Student Performance Analysis
 This project analyzes student performance across different courses, attendance levels, and gender categories. The goal is to understand key indicators of academic performance and identify actionable insights.
 
 ## Tools Used
