@@ -39,3 +39,5 @@ Performance distribution is fairly balanced.
 ## Dashboard Preview
 
 ![Dashboard Preview](dashboard.png)
+## Dashboard Summary
+This dashboard was built using Excel Pivot Tables to analyze student performance across courses, attendance levels, and gender distribution.
