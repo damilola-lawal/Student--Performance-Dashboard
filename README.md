@@ -9,12 +9,12 @@ Data Visualization
 Basic Statistical Comparison
 
 # Dashboard Components
-# 1. Average Score per Course
+Average Score per Course
    Data Analysis: 67.93
  Web Development: 67.79
 Performance across both courses is nearly Similar.
 
-# 2. Attendance vs Total Score
+Attendance vs Total Score
 
 Students with:
 High attendance: 67.92
@@ -22,21 +22,21 @@ Low attendance: 67.81
 
 This suggests that attendance alone does not strongly influence performance.
 
-# 3. Total Performance by Gender
+Total Performance by Gender
 
 # Female: 1021
 # Male: 979
 Performance distribution is fairly balanced.
 
 # Key Insights
-- Student performance is consistent across attendance levels.
-- Course performance differences are minimal.
-- Gender-based performance gap is small.
+Student performance is consistent across attendance levels.
+Course performance differences are minimal.
+Gender-based performance gap is small.
 
 # Recommendations
-- Focus on learning strategies rather than attendance alone.
-- Provide support for below-average students regardless of attendance.
-- Investigate additional factors influencing academic performance.
+Focus on learning strategies rather than attendance alone.
+Provide support for below-average students regardless of attendance.
+Investigate additional factors influencing academic performance.
 
-# Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview] (https://github.com/damilola-lawal/Student--Performance-Dashboard/commit/c9d9120e65a5f9ed2171b4a59c955bf95b6b5779) 
