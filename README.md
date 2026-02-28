@@ -1,5 +1,5 @@
-# 🎓 Student Performance Dashboard
-📊 Project Overview
+# Student Performance Dashboard
+Project Overview
 This project analyzes student performance across different courses, attendance levels, and gender categories. The goal is to understand key drivers of academic performance and identify actionable insights.
 
 # Tools
@@ -8,7 +8,7 @@ Data Cleaning
 Data Visualization
 Basic Statistical Comparison
 
-# 📈 Dashboard Components
+# Dashboard Components
 # 1. Average Score per Course
    Data Analysis: 67.93
  Web Development: 67.79
@@ -28,12 +28,12 @@ This suggests that attendance alone does not strongly influence performance.
 # Male: 979
 Performance distribution is fairly balanced.
 
-# 🔍 Key Insights
+# Key Insights
 - Student performance is consistent across attendance levels.
 - Course performance differences are minimal.
 - Gender-based performance gap is small.
 
-# 💡 Recommendations
+# Recommendations
 - Focus on learning strategies rather than attendance alone.
 - Provide support for below-average students regardless of attendance.
 - Investigate additional factors influencing academic performance.
